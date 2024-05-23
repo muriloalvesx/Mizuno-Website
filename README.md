@@ -12,5 +12,5 @@ Website desenvolvido para fins de estudo.
 
 <div style="display: flex"><br/>
 <img align="center" alt="mizuno1"src="https://github.com/muriloalvesx/Mizuno-Website/assets/153781890/ec5ba6ca-ae3d-4849-acf4-51c2d17e273a" width="420px"/>
-<img align="center" alt="mizuno2"src="https://github.com/muriloalvesx/Mizuno-Website/assets/153781890/21b93f2d-d3bd-4542-8dd6-eb944589c704" width="380px"/>
+<img align="center" alt="mizuno2 "src="https://github.com/muriloalvesx/Mizuno-Website/assets/153781890/21b93f2d-d3bd-4542-8dd6-eb944589c704" width="380px"/>
 </div><br/>
