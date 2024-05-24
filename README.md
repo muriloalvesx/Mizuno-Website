@@ -12,7 +12,7 @@ Website desenvolvido para fins de estudo.
 
 ### Acesse em:
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gordinhadasverduras.netlify.app/) https://mizunowebsite.netlify.app/
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mizunowebsite.netlify.app/) https://mizunowebsite.netlify.app
 
 <div style="display: flex"><br/>
 <img align="center" alt="mizuno1"src="https://github.com/muriloalvesx/Mizuno-Website/assets/153781890/ec5ba6ca-ae3d-4849-acf4-51c2d17e273a" width="420px"/>
